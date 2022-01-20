@@ -1,0 +1,23 @@
+[Defines]
+  INF_VERSION = 0x00010006
+  BASE_NAME = RT
+  FILE_GUID = 4ea9764c-7491-4dfa-b442-747675787f3ec5f
+  MODULE_TYPE = UEFI_APPLICATION
+  VERSION_STRING = 0.1
+  ENTRY_POINT = UefiMain
+# 
+# VALID_ARCHITECTURES= IA32 X64 IPF
+#
+
+
+[Sources]
+  RT.c
+
+[Packages]
+  MdePkg/MdePkg.dec
+
+[LibraryClasses]
+  UefiApplicationEntryPoint
+  UefiLib
+  DebugLib 
+  MemoryAllocationLib

@@ -1,0 +1,16 @@
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/MdePkg/Library/BaseIoLibIntrinsic/IoLibMmioBuffer.c
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/MdePkg/Library/BaseIoLibIntrinsic/IoLibMsc.c
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicInternal.h
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/MdePkg/Include/X64/ProcessorBind.h
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/MdePkg/Include/Library/IoLib.h
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/MdePkg/Library/BaseIoLibIntrinsic/X64/IoFifo.nasm
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/MdePkg/Library/BaseIoLibIntrinsic/X64/IoFifo.asm
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/MdePkg/Library/BaseIoLibIntrinsic/IoLib.c
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic.inf
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/MdePkg/Include/Base.h
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/MdePkg/Include/Library/BaseLib.h
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/MdePkg/Library/BaseIoLibIntrinsic/IoHighLevel.c
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/MdePkg/Library/BaseIoLibIntrinsic/IoLibIcc.c
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/MdePkg/Include/Library/DebugLib.h
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/MdePkg/Library/BaseIoLibIntrinsic/IoLibGcc.c
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/AppPkg/DEBUG_GCC48/X64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/DEBUG/AutoGen.h

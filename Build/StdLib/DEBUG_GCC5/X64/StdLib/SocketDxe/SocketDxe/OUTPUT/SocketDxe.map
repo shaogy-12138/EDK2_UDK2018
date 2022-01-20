@@ -1,0 +1,808 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BasePcdLibNull/BasePcdLibNull/OUTPUT/BasePcdLibNull.lib(PcdLib.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CheckSum.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes64.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes32.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes16.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RShiftU64.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RRotU64.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RRotU32.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x64.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x32.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultS64x64.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ModU64x32.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LShiftU64.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LRotU64.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LRotU32.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LowBitSet64.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LowBitSet32.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(HighBitSet64.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(HighBitSet32.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GetPowerOfTwo64.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GetPowerOfTwo32.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x64Remainder.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32Remainder.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivS64x64Remainder.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ARShiftU64.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuDeadLoop.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Cpu.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LinkedList.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(FilePaths.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(WriteTr.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Non-existing.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86WriteIdtr.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86WriteGdtr.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86Thunk.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86ReadIdtr.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86ReadGdtr.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86Msr.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86GetInterruptState.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86FxSave.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86FxRestore.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86EnablePaging64.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86EnablePaging32.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86DisablePaging64.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86DisablePaging32.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86RdRand.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GccInline.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableDisableInterrupts.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisablePaging64.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuId.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuIdEx.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableCache.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisableCache.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RdRand.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ChkStkGcc.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull/OUTPUT/BaseDebugLibNull.lib(DebugLib.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem64Wrapper.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem32Wrapper.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem16Wrapper.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem8Wrapper.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ZeroMemWrapper.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CompareMemWrapper.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem64Wrapper.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem32Wrapper.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem16Wrapper.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMemWrapper.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMemWrapper.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(IsZeroBufferWrapper.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGeneric.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGuid.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMem.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib(UefiBootServicesTableLib.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathUtilities.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathToText.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathFromText.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(UefiDevicePathLib.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib(UefiRuntimeServicesTableLib.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLibPrint.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiNotTiano.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiDriverModel.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(Console.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/StdLib/EfiSocketLib/EfiSocketLib/OUTPUT/EfiSocketLib.lib(DxeSupport.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/StdLib/EfiSocketLib/EfiSocketLib/OUTPUT/EfiSocketLib.lib(Init.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/StdLib/EfiSocketLib/EfiSocketLib/OUTPUT/EfiSocketLib.lib(Ip4.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/StdLib/EfiSocketLib/EfiSocketLib/OUTPUT/EfiSocketLib.lib(Service.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/StdLib/EfiSocketLib/EfiSocketLib/OUTPUT/EfiSocketLib.lib(Socket.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/StdLib/EfiSocketLib/EfiSocketLib/OUTPUT/EfiSocketLib.lib(Tcp4.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/StdLib/EfiSocketLib/EfiSocketLib/OUTPUT/EfiSocketLib.lib(Tcp6.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/StdLib/EfiSocketLib/EfiSocketLib/OUTPUT/EfiSocketLib.lib(Udp4.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/StdLib/EfiSocketLib/EfiSocketLib/OUTPUT/EfiSocketLib.lib(Udp6.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/StdLib/EfiSocketLib/EfiSocketLib/OUTPUT/EfiSocketLib.lib(UseEfiSocketLib.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/UefiRuntimeLib/UefiRuntimeLib/OUTPUT/UefiRuntimeLib.lib(RuntimeLib.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib(DriverEntryPoint.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/StdLib/SocketDxe/SocketDxe/OUTPUT/SocketDxe.lib(ComponentName.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/StdLib/SocketDxe/SocketDxe/OUTPUT/SocketDxe.lib(DriverBinding.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/StdLib/SocketDxe/SocketDxe/OUTPUT/SocketDxe.lib(EntryUnload.obj)
+                              (--whole-archive)
+/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/StdLib/SocketDxe/SocketDxe/OUTPUT/SocketDxe.lib(AutoGen.obj)
+                              (--whole-archive)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text._DriverUnloadHandler
+                0x0000000000000000       0x17 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.AsciiStrLen
+                0x0000000000000000        0xe /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.InternalAssertJumpBuffer
+                0x0000000000000000        0x1 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .comment       0x0000000000000000       0x2a /tmp/ccVXVyki.ltrans0.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text          0x0000000000000000      0x204 /home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+ .data          0x0000000000000000        0xa /home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+ .text          0x0000000000000000        0x6 /home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(WriteTr.obj)
+ .text          0x0000000000000000        0xf /home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+ .text          0x0000000000000000       0x8f /home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+ .text          0x0000000000000000       0x7c /home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+ .text          0x0000000000000000        0x3 /home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableDisableInterrupts.obj)
+ .text          0x0000000000000000       0x61 /home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisablePaging64.obj)
+ .text          0x0000000000000000       0x27 /home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuId.obj)
+ .text          0x0000000000000000       0x2f /home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuIdEx.obj)
+ .text          0x0000000000000000       0x13 /home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableCache.obj)
+ .text          0x0000000000000000       0x13 /home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisableCache.obj)
+ .text          0x0000000000000000       0x36 /home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RdRand.obj)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /tmp/ccVXVyki.ltrans0.ltrans.o
+START GROUP
+LOAD /home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BasePcdLibNull/BasePcdLibNull/OUTPUT/BasePcdLibNull.lib
+LOAD /home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib
+LOAD /home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull/OUTPUT/BaseDebugLibNull.lib
+LOAD /home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib
+LOAD /home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib
+LOAD /home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib
+LOAD /home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib
+LOAD /home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib
+LOAD /home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib
+LOAD /home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib
+LOAD /home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/StdLib/EfiSocketLib/EfiSocketLib/OUTPUT/EfiSocketLib.lib
+LOAD /home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/UefiRuntimeLib/UefiRuntimeLib/OUTPUT/UefiRuntimeLib.lib
+LOAD /home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib
+LOAD /home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/StdLib/SocketDxe/SocketDxe/OUTPUT/SocketDxe.lib
+END GROUP
+                0x0000000000000228                PECOFF_HEADER_SIZE = 0x228
+                0x0000000000000228                . = PECOFF_HEADER_SIZE
+
+.text           0x0000000000000240     0x71d8
+ *(.text .text.* .stub .gnu.linkonce.t.*)
+ .text.InternalAllocatePool.constprop.6
+                0x0000000000000240       0x37 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.ProcessLibraryDestructorList
+                0x0000000000000277       0x2d /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.DriverSupported
+                0x00000000000002a4       0xb5 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.GetControllerName
+                0x0000000000000359       0x12 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.RuntimeLibExitBootServicesEvent
+                0x000000000000036b        0x1 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.RuntimeLibVirtualNotifyEvent
+                0x000000000000036c       0x16 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslUdp6PortAllocate
+                0x0000000000000382       0x7b /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslUdp6PacketFree
+                0x00000000000003fd       0x29 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslUdp4RemoteAddressSet
+                0x0000000000000426       0x41 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslUdp4PortAllocate
+                0x0000000000000467       0x73 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslUdp4PacketFree
+                0x00000000000004da       0x29 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslTcp4SocketIsConfigured
+                0x0000000000000503       0x1b /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslTcp6SocketIsConfigured
+                0x000000000000051e       0x1b /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslTcp6PortCloseOp
+                0x0000000000000539       0x26 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslTcp6PortClose
+                0x000000000000055f       0x62 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslTcp6PortAllocate
+                0x00000000000005c1       0xe2 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslTcp4PacketFree
+                0x00000000000006a3        0x7 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslTcp6PacketFree
+                0x00000000000006aa        0x7 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslTcp6ConnectStart
+                0x00000000000006b1      0x117 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslTcp4RxStart
+                0x00000000000007c8       0x2a /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslTcp6RxStart
+                0x00000000000007f2        0x5 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslTcp4RemoteAddressSet
+                0x00000000000007f7       0x54 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslTcp4PortCloseOp
+                0x000000000000084b       0x26 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslTcp4PortClose
+                0x0000000000000871       0x62 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslTcp4PortAllocate
+                0x00000000000008d3       0xe0 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslTcp4ConnectStart
+                0x00000000000009b3      0x115 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslTcp4ConnectPoll
+                0x0000000000000ac8      0x193 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslTcp6ConnectPoll
+                0x0000000000000c5b        0x5 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslSocketRxPoll
+                0x0000000000000c60       0x2a /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslSocketRxCancel
+                0x0000000000000c8a       0x1a /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslSocketPacketFree
+                0x0000000000000ca4       0x16 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslSocketTxStart
+                0x0000000000000cba       0xc6 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslSocketIoInit
+                0x0000000000000d80       0x98 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslSocketIoFree
+                0x0000000000000e18       0x55 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslSocketBindTest
+                0x0000000000000e6d       0x68 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslUdp4LocalAddressSet
+                0x0000000000000ed5       0xc1 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslTcp4LocalAddressSet
+                0x0000000000000f96       0xcc /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslSocket
+                0x0000000000001062      0x133 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslIp4RemoteAddressSet
+                0x0000000000001195       0x34 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslIp4PortAllocate
+                0x00000000000011c9       0x9a /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslIp4PacketFree
+                0x0000000000001263       0x2c /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslIp4OptionSet
+                0x000000000000128f       0x27 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslIp4OptionGet
+                0x00000000000012b6       0x37 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslIp4LocalAddressSet
+                0x00000000000012ed       0x8c /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EfiGetCurrentTpl
+                0x0000000000001379       0x2f /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslSocketShutdown
+                0x00000000000013a8      0x116 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslSocketPortClose
+                0x00000000000014be      0x229 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslSocketPortCloseRxDone
+                0x00000000000016e7       0x50 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslSocketPortCloseComplete
+                0x0000000000001737       0x4b /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslSocketPortCloseTxDone
+                0x0000000000001782       0x9b /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslSocketTxComplete
+                0x000000000000181d      0x118 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslUdp6TxComplete
+                0x0000000000001935       0x52 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslUdp4TxComplete
+                0x0000000000001987       0x52 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslTcp4TxOobComplete
+                0x00000000000019d9       0x4e /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslTcp6TxOobComplete
+                0x0000000000001a27        0x5 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslTcp4TxComplete
+                0x0000000000001a2c       0x4b /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslTcp6TxComplete
+                0x0000000000001a77        0x5 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslIp4TxComplete
+                0x0000000000001a7c       0x52 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslSocketPortCloseStart
+                0x0000000000001ace       0x5d /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslTcp6Listen
+                0x0000000000001b2b      0x210 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslTcp4Listen
+                0x0000000000001d3b      0x210 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslSocketListen
+                0x0000000000001f4b      0x18d /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslSocketIsConfigured
+                0x00000000000020d8       0x99 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslSocketTransmit
+                0x0000000000002171      0x18b /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslSocketPoll
+                0x00000000000022fc      0x146 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslSocketClosePoll
+                0x0000000000002442      0x10a /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslSocketCloseStart
+                0x000000000000254c       0xe9 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslSocketAccept
+                0x0000000000002635      0x1e7 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslServiceDisconnect
+                0x000000000000281c      0x1f5 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.DriverStop
+                0x0000000000002a11        0x9 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.DriverUnload
+                0x0000000000002a1a      0x1b7 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslDxeDestroyChild
+                0x0000000000002bd1      0x10b /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.FreePool
+                0x0000000000002cdc        0xa /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslUdp6VerifyLocalIpAddress
+                0x0000000000002ce6      0x20c /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslUdp4VerifyLocalIpAddress
+                0x0000000000002ef2      0x131 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslTcp6VerifyLocalIpAddress
+                0x0000000000003023      0x258 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslTcp4VerifyLocalIpAddress
+                0x000000000000327b      0x12e /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslIp4VerifyLocalIpAddress
+                0x00000000000033a9      0x11e /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.CopyMem  0x00000000000034c7      0x211 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslUdp6RemoteAddressSet
+                0x00000000000036d8       0x2e /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslUdp6RemoteAddressGet
+                0x0000000000003706       0x30 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslUdp6LocalAddressSet
+                0x0000000000003736       0x63 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslUdp6LocalAddressGet
+                0x0000000000003799       0x2f /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslUdp4RemoteAddressGet
+                0x00000000000037c8       0x2f /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslUdp4LocalAddressGet
+                0x00000000000037f7       0x30 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslTcp6RemoteAddressSet
+                0x0000000000003827       0x2e /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslTcp6RemoteAddressGet
+                0x0000000000003855       0x2f /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslTcp6Receive
+                0x0000000000003884       0xbb /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslTcp6LocalAddressSet
+                0x000000000000393f       0x63 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslTcp6LocalAddressGet
+                0x00000000000039a2       0x30 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslTcp4RemoteAddressGet
+                0x00000000000039d2       0x30 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslTcp4Receive
+                0x0000000000003a02       0xbc /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslTcp4LocalAddressGet
+                0x0000000000003abe       0x2f /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslSocketOptionSet
+                0x0000000000003aed      0x17b /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslSocketCopyFragmentedBuffer
+                0x0000000000003c68       0x73 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslUdp6Receive
+                0x0000000000003cdb       0x8e /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslUdp4Receive
+                0x0000000000003d69       0x8e /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslIp4RemoteAddressGet
+                0x0000000000003df7       0x23 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslIp4Receive
+                0x0000000000003e1a       0xbd /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslIp4LocalAddressGet
+                0x0000000000003ed7       0x23 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.AsciiStrnCmp.part.7
+                0x0000000000003efa       0x52 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.GetDriverName
+                0x0000000000003f4c      0x12d /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.ZeroMem  0x0000000000004079       0x88 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.DriverStart
+                0x0000000000004101      0x20d /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslTcp6Accept
+                0x000000000000430e       0x65 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslTcp4Accept
+                0x0000000000004373       0x74 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslSocketPacketAllocate
+                0x00000000000043e7       0x7c /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslUdp6TxBuffer
+                0x0000000000004463      0x203 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslUdp4TxBuffer
+                0x0000000000004666      0x22b /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslTcp6TxBuffer
+                0x0000000000004891      0x247 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslTcp4TxBuffer
+                0x0000000000004ad8      0x247 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslSocketRxStart
+                0x0000000000004d1f      0x16c /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslTcp6ConnectComplete
+                0x0000000000004e8b       0x8e /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslTcp4ConnectComplete
+                0x0000000000004f19       0x8e /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslSocketRxComplete
+                0x0000000000004fa7      0x191 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslUdp6RxComplete
+                0x0000000000005138       0x1d /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslUdp4RxComplete
+                0x0000000000005155       0x1d /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslTcp4RxComplete
+                0x0000000000005172       0x23 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslTcp6RxComplete
+                0x0000000000005195        0x5 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslIp4RxComplete
+                0x000000000000519a       0x20 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslSocketReceive
+                0x00000000000051ba      0x4a9 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslIp4TxBuffer
+                0x0000000000005663      0x250 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslSocketOptionGet
+                0x00000000000058b3      0x1dc /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslSocketGetPeerAddress
+                0x0000000000005a8f      0x1bc /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslSocketGetLocalAddress
+                0x0000000000005c4b      0x18d /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.AllocateZeroPool
+                0x0000000000005dd8       0xf9 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslSocketPortAllocate
+                0x0000000000005ed1      0x2a4 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslSocketBind
+                0x0000000000006175      0x1a9 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslUdp6SocketIsConfigured
+                0x000000000000631e      0x190 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslUdp4SocketIsConfigured
+                0x00000000000064ae      0x17a /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslSocketConnect
+                0x0000000000006628      0x255 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslIp4SocketIsConfigured
+                0x000000000000687d      0x18b /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslSocketAllocate
+                0x0000000000006a08      0x173 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslTcp6ListenComplete
+                0x0000000000006b7b      0x1f7 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslTcp4ListenComplete
+                0x0000000000006d72      0x1d8 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text.EslDxeCreateChild
+                0x0000000000006f4a       0x1b /tmp/ccVXVyki.ltrans0.ltrans.o
+ .text._ModuleEntryPoint
+                0x0000000000006f65      0x225 /tmp/ccVXVyki.ltrans0.ltrans.o
+                0x0000000000006f65                _ModuleEntryPoint
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.GetControllerName.str2.2
+                0x000000000000718a       0x1a /tmp/ccVXVyki.ltrans0.ltrans.o
+ .rodata.EslSocketPortClose.str1.1
+                0x00000000000071a4       0x28 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .rodata.EslUdp6TxComplete.str1.1
+                0x00000000000071cc        0x5 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .rodata.EslTcp4TxOobComplete.str1.1
+                0x00000000000071d1        0x8 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .rodata.EslTcp4TxComplete.str1.1
+                0x00000000000071d9        0x8 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .rodata.EslIp4TxComplete.str1.1
+                0x00000000000071e1        0x5 /tmp/ccVXVyki.ltrans0.ltrans.o
+ *fill*         0x00000000000071e6        0x2 
+ .rodata.EslTcp6Listen
+                0x00000000000071e8       0x40 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .rodata.EslTcp4Listen
+                0x0000000000007228       0x40 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .rodata.EslSocketReceive
+                0x0000000000007268       0x1c /tmp/ccVXVyki.ltrans0.ltrans.o
+ .rodata.EslUdp6SocketIsConfigured
+                0x0000000000007284       0x40 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .rodata.EslUdp4SocketIsConfigured
+                0x00000000000072c4       0x40 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .rodata.EslIp4SocketIsConfigured
+                0x0000000000007304       0x40 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .rodata.str1.1
+                0x0000000000007344       0x28 /tmp/ccVXVyki.ltrans0.ltrans.o
+                                         0x2b (size before relaxing)
+ *fill*         0x000000000000736c        0x4 
+ .rodata.mEslUdp6ServiceGuid
+                0x0000000000007370       0x10 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .rodata.mEslUdp4ServiceGuid
+                0x0000000000007380       0x10 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .rodata.mEslTcp6ServiceGuid
+                0x0000000000007390       0x10 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .rodata.mEslTcp4ServiceGuid
+                0x00000000000073a0       0x10 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .rodata.mEslIp4ServiceGuid
+                0x00000000000073b0       0x10 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .rodata.str2.2
+                0x00000000000073c0       0x58 /tmp/ccVXVyki.ltrans0.ltrans.o
+ *(.got .got.*)
+ .got           0x0000000000007418        0x0 PcdLib.obj (symbol from plugin)
+ .got.plt       0x0000000000007418        0x0 PcdLib.obj (symbol from plugin)
+ *:AutoGen.obj(.data.g*Guid)
+
+.plt            0x0000000000007420        0x0
+ .plt           0x0000000000007420        0x0 PcdLib.obj (symbol from plugin)
+
+.plt.got        0x0000000000007418        0x0
+ .plt.got       0x0000000000007418        0x0 PcdLib.obj (symbol from plugin)
+
+.data           0x0000000000007440      0x9c0
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.rel.ro.local.cEslUdp6Api
+                0x0000000000007440      0x108 /tmp/ccVXVyki.ltrans0.ltrans.o
+ *fill*         0x0000000000007548       0x18 
+ .data.rel.ro.local.cEslTcp6Api
+                0x0000000000007560      0x108 /tmp/ccVXVyki.ltrans0.ltrans.o
+ *fill*         0x0000000000007668       0x18 
+ .data.rel.ro.local.cEslIp4Api
+                0x0000000000007680      0x108 /tmp/ccVXVyki.ltrans0.ltrans.o
+ *fill*         0x0000000000007788       0x18 
+ .data.rel.ro.local.cEslUdp4Api
+                0x00000000000077a0      0x108 /tmp/ccVXVyki.ltrans0.ltrans.o
+ *fill*         0x00000000000078a8       0x18 
+ .data.rel.ro.local.cEslTcp4Api
+                0x00000000000078c0      0x108 /tmp/ccVXVyki.ltrans0.ltrans.o
+ *fill*         0x00000000000079c8        0x8 
+ .data.gEfiUdp6ProtocolGuid
+                0x00000000000079d0       0x10 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .data.gEfiUdp6ServiceBindingProtocolGuid
+                0x00000000000079e0       0x10 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .data.gEfiUdp4ProtocolGuid
+                0x00000000000079f0       0x10 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .data.gEfiUdp4ServiceBindingProtocolGuid
+                0x0000000000007a00       0x10 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .data.gEfiTcp6ProtocolGuid
+                0x0000000000007a10       0x10 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .data.gEfiTcp6ServiceBindingProtocolGuid
+                0x0000000000007a20       0x10 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .data.gEfiTcp4ProtocolGuid
+                0x0000000000007a30       0x10 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .data.gEfiTcp4ServiceBindingProtocolGuid
+                0x0000000000007a40       0x10 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .data.gEfiIp4ProtocolGuid
+                0x0000000000007a50       0x10 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .data.gEfiIp4ServiceBindingProtocolGuid
+                0x0000000000007a60       0x10 /tmp/ccVXVyki.ltrans0.ltrans.o
+ *fill*         0x0000000000007a70       0x10 
+ .data.rel.local.cEslAfInet6Api
+                0x0000000000007a80       0x30 /tmp/ccVXVyki.ltrans0.ltrans.o
+ *fill*         0x0000000000007ab0       0x10 
+ .data.rel.local.cEslAfInetApi
+                0x0000000000007ac0       0x30 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .data.gEfiSocketProtocolGuid
+                0x0000000000007af0       0x10 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .data.gEfiIp4Config2ProtocolGuid
+                0x0000000000007b00       0x10 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .data.gEfiIp6ConfigProtocolGuid
+                0x0000000000007b10       0x10 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .data.gEfiEventExitBootServicesGuid
+                0x0000000000007b20       0x10 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .data.gEfiEventVirtualAddressChangeGuid
+                0x0000000000007b30       0x10 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .data.rel.ro.local.mEfiServiceBinding
+                0x0000000000007b40       0x10 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .data.gEfiLoadedImageProtocolGuid
+                0x0000000000007b50       0x10 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .data.rel.local.mDriverNameTable
+                0x0000000000007b60       0x20 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .data.rel.ro.local.cEslSocketBinding
+                0x0000000000007b80      0x140 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .data.gEfiSocketServiceBindingProtocolGuid
+                0x0000000000007cc0       0x10 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .data.rel.local.mComponentName2
+                0x0000000000007cd0       0x18 /tmp/ccVXVyki.ltrans0.ltrans.o
+ *fill*         0x0000000000007ce8        0x8 
+ .data.gEfiComponentName2ProtocolGuid
+                0x0000000000007cf0       0x10 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .data.rel.local.mComponentName
+                0x0000000000007d00       0x18 /tmp/ccVXVyki.ltrans0.ltrans.o
+ *fill*         0x0000000000007d18        0x8 
+ .data.gEfiComponentNameProtocolGuid
+                0x0000000000007d20       0x10 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .data.gEfiDriverBindingProtocolGuid
+                0x0000000000007d30       0x10 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .data.rel.local.mDriverBinding
+                0x0000000000007d40       0x30 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .data.gEfiCallerIdGuid
+                0x0000000000007d70       0x10 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .data.rel.ro   0x0000000000007d80        0x0 PcdLib.obj (symbol from plugin)
+ *(.bss .bss.*)
+ .bss.gST       0x0000000000007d80        0x8 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .bss.mInternalRT
+                0x0000000000007d88        0x8 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .bss.gRT       0x0000000000007d90        0x8 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .bss.gImageHandle
+                0x0000000000007d98        0x8 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .bss.mEslLayer
+                0x0000000000007da0       0x48 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .bss.mEfiExitBootServicesEvent
+                0x0000000000007de8        0x8 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .bss.mEfiVirtualNotifyEvent
+                0x0000000000007df0        0x8 /tmp/ccVXVyki.ltrans0.ltrans.o
+ .bss.gBS       0x0000000000007df8        0x8 /tmp/ccVXVyki.ltrans0.ltrans.o
+
+.eh_frame       0x0000000000007e00        0x0
+ *(.eh_frame)
+ .eh_frame      0x0000000000007e00        0x0 PcdLib.obj (symbol from plugin)
+ .eh_frame      0x0000000000007e00        0x0 PcdLib.obj (symbol from plugin)
+
+.dynbss         0x0000000000007e00        0x0
+ .dynbss        0x0000000000007e00        0x0 PcdLib.obj (symbol from plugin)
+
+.gnu.version_d  0x0000000000007e00        0x0
+ .gnu.version_d
+                0x0000000000007e00        0x0 PcdLib.obj (symbol from plugin)
+
+.gnu.version    0x0000000000007e00        0x0
+ .gnu.version   0x0000000000007e00        0x0 PcdLib.obj (symbol from plugin)
+
+.gnu.version_r  0x0000000000007e00        0x0
+ .gnu.version_r
+                0x0000000000007e00        0x0 PcdLib.obj (symbol from plugin)
+
+.rela           0x0000000000007e00      0xb88
+ *(.rela .rela.*)
+ .rela.plt      0x0000000000007e00        0x0 PcdLib.obj (symbol from plugin)
+ .rela.got      0x0000000000007e00        0x0 PcdLib.obj (symbol from plugin)
+ .rela.bss      0x0000000000007e00        0x0 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.ro
+                0x0000000000007e00        0x0 PcdLib.obj (symbol from plugin)
+ .rela.ifunc    0x0000000000007e00        0x0 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.ro.local.cEslUdp6Api
+                0x0000000000007e00      0x138 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.ro.local.cEslTcp6Api
+                0x0000000000007f38      0x1f8 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.ro.local.cEslIp4Api
+                0x0000000000008130      0x168 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.ro.local.cEslUdp4Api
+                0x0000000000008298      0x138 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.ro.local.cEslTcp4Api
+                0x00000000000083d0      0x1f8 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.cEslAfInet6Api
+                0x00000000000085c8       0x48 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.cEslAfInetApi
+                0x0000000000008610       0x60 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.ro.local.mEfiServiceBinding
+                0x0000000000008670       0x30 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.mDriverNameTable
+                0x00000000000086a0       0x30 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.ro.local.cEslSocketBinding
+                0x00000000000086d0      0x1e0 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.mComponentName2
+                0x00000000000088b0       0x48 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.mComponentName
+                0x00000000000088f8       0x48 PcdLib.obj (symbol from plugin)
+ .rela.data.rel.local.mDriverBinding
+                0x0000000000008940       0x48 PcdLib.obj (symbol from plugin)
+
+.hii
+ *(.hii)
+
+.build-id       0x0000000000008988       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x0000000000008988       0x24 PcdLib.obj (symbol from plugin)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.interp)
+ *(.dynsym)
+ *(.dynstr)
+ *(.dynamic)
+ *(.hash .gnu.hash)
+ *(.comment)
+ *(COMMON)
+OUTPUT(/home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/Build/StdLib/DEBUG_GCC5/X64/StdLib/SocketDxe/SocketDxe/DEBUG/SocketDxe.dll elf64-x86-64)
+
+.debug_info     0x0000000000000000     0xf4f6
+ .debug_info    0x0000000000000000     0xf4f6 /tmp/ccVXVyki.ltrans0.ltrans.o
+
+.debug_abbrev   0x0000000000000000      0x6cc
+ .debug_abbrev  0x0000000000000000      0x6cc /tmp/ccVXVyki.ltrans0.ltrans.o
+
+.debug_loc      0x0000000000000000    0x1069c
+ .debug_loc     0x0000000000000000    0x1069c /tmp/ccVXVyki.ltrans0.ltrans.o
+
+.debug_aranges  0x0000000000000000      0x870
+ .debug_aranges
+                0x0000000000000000      0x870 /tmp/ccVXVyki.ltrans0.ltrans.o
+
+.debug_ranges   0x0000000000000000     0x1130
+ .debug_ranges  0x0000000000000000     0x1130 /tmp/ccVXVyki.ltrans0.ltrans.o
+
+.debug_line     0x0000000000000000     0x2e96
+ .debug_line    0x0000000000000000     0x2e96 /tmp/ccVXVyki.ltrans0.ltrans.o
+
+.debug_str      0x0000000000000000     0x50a4
+ .debug_str     0x0000000000000000     0x50a4 /tmp/ccVXVyki.ltrans0.ltrans.o
+                                       0x56a8 (size before relaxing)
+
+.debug_frame    0x0000000000000000     0x21d8
+ .debug_frame   0x0000000000000000     0x21d8 /tmp/ccVXVyki.ltrans0.ltrans.o

@@ -1,0 +1,24 @@
+
+
+Architecture(s)  = X64
+Build target     = DEBUG
+Toolchain        = GCC48
+
+Active Platform          = /home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/AppPkg/AppPkg.dsc
+Active Module            = /home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/MyTest/systemtable/memory/BSmem.inf
+
+Processing meta-data .. done!
+Generating code . done!
+Generating makefile . done!
+make: Nothing to be done for 'tbuild'.
+make: Nothing to be done for 'tbuild'.
+make: Nothing to be done for 'tbuild'.
+make: Nothing to be done for 'tbuild'.
+make: Nothing to be done for 'tbuild'.
+make: Nothing to be done for 'tbuild'.
+make: Nothing to be done for 'tbuild'.
+make: Nothing to be done for 'tbuild'.
+make: Nothing to be done for 'tbuild'.
+make: Nothing to be done for 'tbuild'.
+make: Nothing to be done for 'tbuild'.
+make: Nothing to be done for 'tbuild'.

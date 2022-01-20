@@ -1,0 +1,3 @@
+gCommandLineDefines: {'ARCH': 'X64'}
+BuildOptionPcd: []
+Active Platform: /home/Jason/edk2_workspace/edk2_UDK2018/edk2-vUDK2018/AppPkg/AppPkg.dsc

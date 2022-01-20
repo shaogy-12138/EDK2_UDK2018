@@ -1,0 +1,29 @@
+
+[Defines]
+    INF_VERSION             = 0x00010006
+    BASE_NAME               = ShellAppMain
+    FILE_GUID               = CE966CDA-938F-485B-B292-A233932AA091
+    MODULE_TYPE             = UEFI_APPLICATION
+    VERSION_STRING          = 1.0
+    ENTRY_POINT             = ShellCEntryLib
+
+
+
+[Sources]
+    main.c
+
+
+[Packages]
+    MdePkg/MdePkg.dec
+    ShellPkg/ShellPkg.dec
+    MdeModulePkg/MdeModulePkg.dec
+    StdLib/StdLib.dec
+
+
+[LibraryClasses]
+    ShellCEntryLib
+    UefiLib
+    UefiBootServicesTableLib
+    IoLib
+    LibC
+    LibStdio
