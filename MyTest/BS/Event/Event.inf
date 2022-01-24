@@ -15,8 +15,10 @@
   MdePkg/MdePkg.dec
 
 [LibraryClasses]
+  UefiBootServicesTableLib
   UefiApplicationEntryPoint
   UefiLib
   DebugLib
 
-
+[Protocols]
+  gEfiSimplePointerProtocolGuid          ## CONSUMES AND PRODUCES
