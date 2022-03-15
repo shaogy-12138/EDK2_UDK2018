@@ -1,0 +1,30 @@
+[Defines]
+INF_VERSION = 0x00010005
+BASE_NAME = 5_1_UseSt
+FILE_GUID =  6927944E-ED34-42DB-AE37-1FA6E4ED2116
+MODULE_TYPE = UEFI_APPLICATION
+VERSION_STRING = 1.0
+ENTRY_POINT = UefiMain
+
+[Sources]
+5_1_UseSt.c
+
+[Packages]
+MdePkg/MdePkg.dec
+MdeModulePkg/MdeModulePkg.dec
+
+
+[LibraryClasses]
+UefiApplicationEntryPoint
+UefiLib
+PcdLib
+
+
+[FeaturePcd]
+
+
+
+[Protocols]
+
+[Pcd]
+
